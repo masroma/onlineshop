@@ -1,1 +1,6 @@
 toko online ini adalah frontend saja backendya belum jadi
+
+fitur
+add cart
+ongkos kirim 
+ 
